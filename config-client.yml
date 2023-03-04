@@ -10,3 +10,6 @@ eureka:
 com:
   mugh:
     port: 4040
+    
+  training:
+    tax: 16
